@@ -3,7 +3,7 @@
   "project": "taskly-cli",
   "outputDir": ".dg",
   "created": "2025-06-30T08:34:08.823Z",
-  "updated": "2025-06-30T09:05:36.775Z",
+  "updated": "2025-06-30T12:56:52.620Z",
   "casts": [
     {
       "name": "help",
@@ -14,7 +14,7 @@
       "validation": {
         "mode": "auto"
       },
-      "validated": "2025-06-30T09:05:36.675Z"
+      "validated": "2025-06-30T12:56:52.567Z"
     },
     {
       "name": "list",
@@ -25,7 +25,7 @@
       "validation": {
         "mode": "auto"
       },
-      "validated": "2025-06-30T09:05:36.708Z"
+      "validated": "2025-06-30T12:56:52.595Z"
     },
     {
       "name": "add",
@@ -36,7 +36,7 @@
       "validation": {
         "mode": "auto"
       },
-      "validated": "2025-06-30T09:05:36.736Z"
+      "validated": "2025-06-30T12:56:52.620Z"
     },
     {
       "name": "validate",
@@ -48,7 +48,7 @@
         "mode": "auto"
       },
       "command": "dg validate",
-      "validated": "2025-06-30T09:05:36.775Z"
+      "validated": "2025-06-30T12:25:16.328Z"
     }
   ]
 }

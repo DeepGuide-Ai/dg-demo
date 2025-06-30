@@ -1,4 +1,4 @@
-name: CI
+name: DeepGuide
 
 on:
   push:
@@ -28,4 +28,4 @@ jobs:
         sudo apt-get install -y asciinema
     
     - name: Validate demos
-      run: npx dg validate
+      run: npx @deepguide-ai/dg validate --non-interactive

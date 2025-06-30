@@ -119,29 +119,6 @@ dg validate
 
 GitHub action is automatically added to `.github/workflows/test.yml`:
 
-```yaml
-name: Test Documentation
-on: [push, pull_request]
-
-jobs:
-  validate-demos:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: oven-sh/setup-bun@v1
-      
-      # Install DG CLI
-      - run: npm install -g @DeepGuide-Ai/dg
-      
-      # Install system dependencies
-      - run: |
-          sudo apt-get update
-          sudo apt-get install -y asciinema
-      
-      # Validate demos
-      - run: dg validate
-```
-
 ### Benefits Over Traditional Docs
 
 | Traditional | With DeepGuide |
