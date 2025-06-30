@@ -1,6 +1,4 @@
-# Taskly CLI - Demo for DeepGuide CLI
-
-A simple task management CLI tool
+# Taskly CLI: Demo for `dg` - A simple CLI tool to record demos for terminal (CLI) tools
 
 > **Note**: This is a demo that shows how to create interactive documentation for terminal (CLI) tools using [dg](https://github.com/DeepGuide-Ai/dg) - an easy command to add interactive demos to your CLI tool.
 
@@ -10,7 +8,11 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 
 ## Examples
 
-> Below are docs (copy-pasted) created by dg
+> Below are demos (copy-pasted) created by dg. Beautiful SVGs, Copy-Pasteable, and Lightweight.
+
+<!-- Self-testing badge (remove if not using CI yet) -->
+![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
+
 
 ## Help
 
@@ -18,8 +20,6 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 ![Help - light](/.dg/svg/help-light.svg#gh-light-mode-only)
 ![Help - dark](/.dg/svg/help-dark.svg#gh-dark-mode-only)
 
-<!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
 
 ## List
 
@@ -27,8 +27,6 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 ![List - light](/.dg/svg/list-light.svg#gh-light-mode-only)
 ![List - dark](/.dg/svg/list-dark.svg#gh-dark-mode-only)
 
-<!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
 
 
 ## Add, Remove And Complete
@@ -37,8 +35,6 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 ![Add - light](/.dg/svg/add-light.svg#gh-light-mode-only)
 ![Add - dark](/.dg/svg/add-dark.svg#gh-dark-mode-only)
 
-<!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
 
 ## validate
 
@@ -46,6 +42,4 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 ![validate - light](/.dg/svg/validate-light.svg#gh-light-mode-only)
 ![validate - dark](/.dg/svg/validate-dark.svg#gh-dark-mode-only)
 
-<!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
 
