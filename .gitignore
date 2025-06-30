@@ -28,6 +28,3 @@ platform-packages/
 # Misc
 .env
 .env.local
-
-# For demo testing only
-.dg

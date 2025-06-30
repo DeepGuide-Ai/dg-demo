@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "project": "taskly-cli",
+  "outputDir": ".dg",
+  "created": "2025-06-30T08:34:08.823Z",
+  "updated": "2025-06-30T08:42:12.657Z",
+  "casts": [
+    {
+      "name": "help",
+      "title": "Help",
+      "created": "2025-06-30T08:34:24.386Z",
+      "updated": "2025-06-30T08:34:24.386Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      }
+    },
+    {
+      "name": "list",
+      "title": "List",
+      "created": "2025-06-30T08:35:18.089Z",
+      "updated": "2025-06-30T08:35:18.089Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      }
+    },
+    {
+      "name": "add-remove-and-complete",
+      "title": "Add, Remove and Complete",
+      "created": "2025-06-30T08:36:43.421Z",
+      "updated": "2025-06-30T08:36:43.421Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      }
+    },
+    {
+      "name": "add",
+      "title": "Add",
+      "created": "2025-06-30T08:42:12.657Z",
+      "updated": "2025-06-30T08:42:12.657Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      }
+    }
+  ]
+}
