@@ -3,7 +3,7 @@
   "project": "taskly-cli",
   "outputDir": ".dg",
   "created": "2025-06-30T08:34:08.823Z",
-  "updated": "2025-06-30T08:42:12.657Z",
+  "updated": "2025-06-30T09:05:36.775Z",
   "casts": [
     {
       "name": "help",
@@ -13,7 +13,8 @@
       "interactive": false,
       "validation": {
         "mode": "auto"
-      }
+      },
+      "validated": "2025-06-30T09:05:36.675Z"
     },
     {
       "name": "list",
@@ -23,17 +24,8 @@
       "interactive": false,
       "validation": {
         "mode": "auto"
-      }
-    },
-    {
-      "name": "add-remove-and-complete",
-      "title": "Add, Remove and Complete",
-      "created": "2025-06-30T08:36:43.421Z",
-      "updated": "2025-06-30T08:36:43.421Z",
-      "interactive": false,
-      "validation": {
-        "mode": "auto"
-      }
+      },
+      "validated": "2025-06-30T09:05:36.708Z"
     },
     {
       "name": "add",
@@ -43,7 +35,20 @@
       "interactive": false,
       "validation": {
         "mode": "auto"
-      }
+      },
+      "validated": "2025-06-30T09:05:36.736Z"
+    },
+    {
+      "name": "validate",
+      "title": "validate",
+      "created": "2025-06-30T09:04:50.607Z",
+      "updated": "2025-06-30T09:04:50.607Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "dg validate",
+      "validated": "2025-06-30T09:05:36.775Z"
     }
   ]
 }
