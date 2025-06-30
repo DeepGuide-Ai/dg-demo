@@ -1,0 +1,33 @@
+# Node
+node_modules/
+dist/
+*.log
+
+# Bun
+.bun/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Test output
+coverage/
+*.test.ts
+
+# Platform binaries/packages
+platform-packages/
+*.tgz
+
+# Misc
+.env
+.env.local
+
+# For demo testing only
+.dg

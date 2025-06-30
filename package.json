@@ -1,0 +1,16 @@
+{
+  "name": "taskly-cli",
+  "version": "1.0.0",
+  "description": "Simple task management CLI tool - Demo project for DeepGuide CLI",
+  "main": "cli.js",
+  "bin": {
+    "taskly": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "test": "node cli.js help",
+    "demo": "node cli.js init demo-project"
+  },
+  "author": "DeepGuide Team",
+  "license": "MIT"
+}
