@@ -11,7 +11,7 @@ Please see [SETUP](SETUP.md) for how to use **dg** for this project.
 > Below are demos (copy-pasted) created by dg. Beautiful SVGs, Copy-Pasteable, and Lightweight.
 
 <!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/DeepGuide-Ai/dg-demo/actions/workflows/validate-dg.yml/badge.svg)
+![Demo status](https://github.com/DeepGuide-Ai/dg-demo/actions/workflows/dg-validate.yml/badge.svg)
 
 
 ## Help
